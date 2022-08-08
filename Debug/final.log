@@ -1,0 +1,12 @@
+﻿  main.c
+  stock.c
+C:\Users\liamr\source\repos\final\stock.c(15,10): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'double *'
+C:\Users\liamr\source\repos\final\stock.c(15,10): message : consider using '%lf' in the format string
+C:\Users\liamr\source\repos\final\stock.c(23,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'double *'
+C:\Users\liamr\source\repos\final\stock.c(23,11): message : consider using '%lf' in the format string
+C:\Users\liamr\source\repos\final\stock.c(27,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 2 has type 'double *'
+C:\Users\liamr\source\repos\final\stock.c(27,11): message : consider using '%lf' in the format string
+C:\Users\liamr\source\repos\final\stock.c(31,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+C:\Users\liamr\source\repos\final\stock.c(31,11): message : consider using '%lf' in the format string
+  Generating Code...
+  final.vcxproj -> C:\Users\liamr\source\repos\final\Debug\final.exe

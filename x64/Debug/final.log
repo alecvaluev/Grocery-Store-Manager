@@ -1,0 +1,13 @@
+﻿  stock.c
+C:\Users\liamr\source\repos\final\stock.c(57,18): warning C4477: 'fscanf' : format string '%[^,]' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+C:\Users\liamr\source\repos\final\stock.c(57,18): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'double *'
+C:\Users\liamr\source\repos\final\stock.c(57,18): warning C4477: 'fscanf' : format string '%[^,]' requires an argument of type 'char *', but variadic argument 4 has type 'int *'
+C:\Users\liamr\source\repos\final\stock.c(57,18): warning C4477: 'fscanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 5 has type 'char (*)[25]'
+C:\Users\liamr\source\repos\final\stock.c(57,18): warning C4473: 'fscanf' : not enough arguments passed for format string
+C:\Users\liamr\source\repos\final\stock.c(57,18): message : placeholders and their parameters expect 9 variadic arguments, but 5 were provided
+C:\Users\liamr\source\repos\final\stock.c(57,18): message : the missing variadic argument 6 is required by format string '%[^,]'
+C:\Users\liamr\source\repos\final\stock.c(199,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[14]'
+C:\Users\liamr\source\repos\final\stock.c(199,20): warning C4024: 'bubbleSortByFirst': different types for formal and actual parameter 1
+C:\Users\liamr\source\repos\final\stock.c(199,34): warning C4047: 'function': 'double *' differs in levels of indirection from 'double (*)[14]'
+C:\Users\liamr\source\repos\final\stock.c(199,26): warning C4024: 'bubbleSortByFirst': different types for formal and actual parameter 2
+  final.vcxproj -> C:\Users\liamr\source\repos\final\x64\Debug\final.exe
